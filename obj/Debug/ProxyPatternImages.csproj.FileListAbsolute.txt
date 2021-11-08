@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\ProxyPatternImages\ProxyPatternImages\bin\Debug\ProxyPatternImages.exe.config
+C:\Users\54926\source\repos\ProxyPatternImages\ProxyPatternImages\bin\Debug\ProxyPatternImages.exe
+C:\Users\54926\source\repos\ProxyPatternImages\ProxyPatternImages\bin\Debug\ProxyPatternImages.pdb
+C:\Users\54926\source\repos\ProxyPatternImages\ProxyPatternImages\obj\Debug\ProxyPatternImages.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\ProxyPatternImages\ProxyPatternImages\obj\Debug\ProxyPatternImages.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\ProxyPatternImages\ProxyPatternImages\obj\Debug\ProxyPatternImages.exe
+C:\Users\54926\source\repos\ProxyPatternImages\ProxyPatternImages\obj\Debug\ProxyPatternImages.pdb
